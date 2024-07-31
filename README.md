@@ -24,8 +24,19 @@
 - [x] Array Question 9: Subarray sum equals to K
 
 ### Day 5
-- [x] Array Question 8: Container With Most Water
+- [x] Array Question 10: Container With Most Water
+- [x] Array Question 11: Three sum
 
+### Day 6
+- [x] Array Question 12: Four sum
+- [x] Array Question 13: Maximum Points You Can Obtain from Cards
+
+
+### Day 7
+- [x] Array Question 14: Word Search
+- [x] Array Question 15: Merge sorted array
+- [x] Array Question 16: Jump game
+- [x] Array Question 17: Majority element
 <!-- ### Day 2
 - [ ] LinkedList Question 1: Reverse a linked list
 - [ ] LinkedList Question 2: Detect a cycle in a linked list
